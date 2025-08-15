@@ -27,7 +27,7 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 
 ## Getting Started
 
-### Firegroups
+### Set Your Firegroups as Follows
 
 | Component | Firegroup | Notes |
 |-----------|-----------|-------|
@@ -39,6 +39,7 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 | Prospector Limpet Controller | Secondary fire button | Must be set manually |
 
 **Note:** Firegroups for Collector and Prospector Limpet Controllers are **not** set automatically by the profile. You must set them manually as shown above.
+
 
 ---
 
