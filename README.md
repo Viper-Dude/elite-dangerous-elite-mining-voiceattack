@@ -61,7 +61,7 @@ Once installed and your firegroups are set:
 - EliteVA will automatically read your in-game keybindings from Elite Dangerous (keyboard-only, not HOTAS).
 
 ## Known Limitations
-- Works only with keyboard keybindings (HOTAS/joystick buttons are not supported for automated reads).
+- Works only with in game custom keyboard keybindings. HOTAS/joystick buttons are not supported for automated reads and therefore need to be set manually inside the profile.
 - Requires EliteAPI to be running in the background.
 
 ## Disclaimer
