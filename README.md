@@ -6,9 +6,15 @@ This repository contains the "EliteMining" VoiceAttack profile, designed specifi
 - Custom voice commands for automate mining operations (e.g., deploying limpets, activating and fiering mining lasers)
 - Streamlined controls for efficient mining workflow
 
+## Requirements
+- ## Requirements
+- [ElitaApi by Somfic](https://docs.somfic.dev/projects/eliteva) EliteApi auto Installer
+- [ElitaApi by Somfic](https://github.com/Somfic/ElitaApi) (Github)
+
+
 ## Installation
-1. Download the `EliteMining v01.00.rar` file from this repository (right click save as). 
-2. Install all content in this rar file to your voiceattack app folder.
+1. Download the lates release
+2. Install all content in dowloaded rar file to your voiceattack app folder.
 3. In VoiceAttack, go to **Profile > Import Profile**.from you voiceattack app
 4. Select EliteMining-Profile.vap.
 
