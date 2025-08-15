@@ -11,7 +11,7 @@ This repository contains the "EliteMining" VoiceAttack profile, designed specifi
 - [Voiceattack](https://voiceattack.com/) Paid version
 
 ## Installation
-1. Download the lates release
+1. Download the latest release
 2. Install all content in dowloaded rar file to your voiceattack app folder.
 3. In VoiceAttack, go to **Profile > Import Profile**.from you voiceattack app
 4. Select EliteMining-Profile.vap.
