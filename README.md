@@ -7,8 +7,7 @@ This repository contains the "EliteMining" VoiceAttack profile, designed specifi
 - Streamlined controls for efficient mining workflow
 
 ## Requirements
-- [ElitaApi by Somfic](https://docs.somfic.dev/projects/eliteva) EliteApi auto Installer
-- [ElitaApi by Somfic](https://github.com/Somfic/ElitaApi) (Github)
+- [ElitaApi by Somfic](https://docs.somfic.dev/projects/eliteva) 
 - [Voiceattack](https://voiceattack.com/) Paid version
 
 ## Installation
