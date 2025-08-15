@@ -21,3 +21,8 @@ TBA
 
 ## Usage
 Use voice commands and/or keybinds to control mining equipment and ship functions, making your mining experience smoother and more immersive.
+
+## Bindings
+EliteVA automatically updates and uses your current in-game keybindings. 
+Note: Works only with keyboard keybindings, not joystick/HOTAS.
+
