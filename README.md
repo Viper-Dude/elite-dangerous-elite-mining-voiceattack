@@ -20,7 +20,7 @@ This repository contains the "EliteMining" VoiceAttack profile, designed specifi
 TBA 
 
 ## Usage
-Use voice commands to control mining equipment and ship functions, making your mining experience smoother and more immersive.
+Use voice commands and/or keybinds to control mining equipment and ship functions, making your mining experience smoother and more immersive.
 
 ## Credits
 Created by ViperDude.
