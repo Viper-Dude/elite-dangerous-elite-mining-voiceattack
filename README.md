@@ -9,8 +9,8 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 - Works alongside EliteAPI by Somfic for automatic in-game data reading.
 
 ## Requirements
-- [EliteVA (API) by Somfic](https://docs.somfic.dev/projects/eliteva)
-- [VoiceAttack](https://voiceattack.com/) – Paid version
+- <a href="https://docs.somfic.dev/projects/eliteva" target="_blank">EliteVA (API) by Somfic</a>
+- <a href="https://voiceattack.com/" target="_blank">VoiceAttack</a> – Paid version
 - A working microphone for voice commands
 - Elite Dangerous (PC version)
 
