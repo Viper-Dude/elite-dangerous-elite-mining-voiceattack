@@ -16,13 +16,8 @@ This repository contains the "EliteMining" VoiceAttack profile, designed specifi
 3. In VoiceAttack, go to **Profile > Import Profile**.from you voiceattack app
 4. Select EliteMining-Profile.vap.
 
-## Before use
+## Configuration
 TBA 
 
 ## Usage
 Use voice commands and/or keybinds to control mining equipment and ship functions, making your mining experience smoother and more immersive.
-
-## Credits
-Created by ViperDude.
-Svein Tore Duaas
-mrd607@gmail.com
