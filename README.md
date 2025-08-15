@@ -65,7 +65,9 @@ Once installed and your firegroups are set:
 - Requires EliteAPI to be running in the background.
 
 ## Disclaimer
+This Profile is Work-in-progress and is subject for changes. (still in beta) 
 This profile is a fan-made tool and is not affiliated with Frontier Developments. Use at your own risk and in accordance with the game’s terms of service.
+
 
 ViperDude
 
