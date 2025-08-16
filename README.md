@@ -55,7 +55,7 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 
 ## Commands
 
-The **EliteMining** profile contains **509 commands** in total, organized into categories. Below are two important categories directly related to firegroup and mining operations.
+The **EliteMining** profile contains **512 commands** in total, organized into categories. Below are two important categories directly related to firegroup and mining operations.
 
 ### Check – Status
 These commands let you check what firegroups or toggles are currently active. They are useful for troubleshooting or confirming that the correct setup is in place before starting a mining sequence.  
