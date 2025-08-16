@@ -153,6 +153,24 @@ Once installed and your firegroups are set:
 If you use HCS voicepack as you main profile be sure to change the commands for "Start and Stop mining inside the  EliteMining profile.
 - There is none known issue in use together with EDcopilot.
 
+  ## Training Speech Recognition
+
+VoiceAttack includes built-in tools to help improve how well it understands your voice. Taking a few minutes to train the recognition engine makes commands trigger more reliably.
+
+### How to Train
+1. Open VoiceAttack.  
+2. Go to **Help** → **Utilities** → **Recognition Training**.  
+3. Follow the on-screen prompts and read the provided text passages.  
+
+### Tips
+By using the built-in utilities, you can adapt the profile to your own voice and ensure your custom commands work smoothly.
+- Train in a quiet environment using the same microphone you play with.  
+- Be consistent in how you say your commands.  
+- If a command is often misheard, you can edit its phrase directly in the VoiceAttack profile and choose words that are easier for you to say.
+- Remember to back up your speech engine training file with this tool: [SpProfileMgr.zip](https://voiceattack.com/filesend.aspx?id=SpProfileMgr.zip) 
+
+By using the built-in utilities, you can adapt the profile to your own voice and ensure your custom commands work smoothly.
+
 ## Missing features
 - Add a switch for core/laser mining
 - Add commands and presets for Core minig.
