@@ -86,7 +86,7 @@ This section of the profile provides quick ship configuration presets for differ
 - Change Firegroups for laser,scanner and weapons (e.g., Setting firegroup for mining laser's to delta).  
 
 
-### How to Use
+###How to Use
 
 1. Say the command for the preset (for example: `Set mining configuration for 3 x haz ore 3 x haz` or `Set mining configuration for 3 x none haz multiminer or 3 x none haz multiminer`).  
 2. VoiceAttack will automatically toggle your ship’s modules to the appropriate configuration.  
