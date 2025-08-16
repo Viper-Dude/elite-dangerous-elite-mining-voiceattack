@@ -50,6 +50,7 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 | Start Mining | Starts the Laser Mining Sequence |
 | Reset Mining | Stops and resets the mining sequence if needed |
 | Clear and Jump | Clears your ship from mass lock and activates Supercruise or an FSD jump (if a system is selected). This same button can also be used to enter a destination from supercruise |
+-| Trackir integration | set your pause toggle in the Trackir software to f9 to pause/unpause when your ship is docked/undocked. Or change the keybind to you liking the command "Toggle Trackir" |
 
 
 ## Commands
