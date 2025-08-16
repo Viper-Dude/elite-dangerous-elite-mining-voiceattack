@@ -116,8 +116,8 @@ This section of the profile provides quick ship configuration presets for differ
 - Toggle power settings set to 0
 
 
-- **Non Hazardous Mining**   
- *Set mining configuration for 3 x haz*
+**Non Hazardous Mining**   
+*Set mining configuration for 3 x haz*
 - Setting firegroup for mining laser's to charlie 
 - Setting firegroup for discovery scanner to golf 
 - Setting firegroup for pulse wave analyser to bravo' 
