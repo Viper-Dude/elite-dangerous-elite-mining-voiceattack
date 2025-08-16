@@ -86,9 +86,6 @@ These commands allow you to directly set or change firegroups by voice command, 
 Use these if you want to *quickly apply* or *reconfigure* the firegroups defined earlier in the [Firegroups Table](#set-your-firegroups-as-follows).  
 
 
-
-
-
 ## Usage
 Once installed and your firegroups are set:
 
@@ -98,7 +95,7 @@ Once installed and your firegroups are set:
   
 ## Known Limitations
 - Works only with in game custom keyboard keybindings. HOTAS/joystick buttons are not supported for automated reads and therefore need to be set manually inside the profile.
-- Requires EliteAPI to be running in the background.
+- Requires [EliteVA (API) by Somfic](https://docs.somfic.dev/projects/eliteva)
 
 ## Disclaimer
 This Profile is Work-in-progress and is subject for changes. (still in beta) 
