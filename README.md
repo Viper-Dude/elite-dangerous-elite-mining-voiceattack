@@ -135,7 +135,7 @@ This section of the profile provides quick ship configuration presets for differ
 1. Say the command for the preset (for example: "Set mining configuration for 3 x haz or 3 x haz" or Set mining configuration for 3 x none haz multiminer or3 x none haz multiminer`).  
 2. VoiceAttack will automatically toggle your ship’s modules to the appropriate configuration.  
 3. Switch back and forth at any time depending on the mining site.
-4. On fly changes e.g., say "Set timer for laser mining to 1-50 seconds" this command will change the time duration of laser's firing at the rock. another example is  Say "Set Toggle for cargo scoop to 0- 1", this command will enabel (1) or disable (0) if the cargo scoop should be retracted or not after a duration of time set in the command "Timer for cargo scoop set to * seconds.
+4. On fly changes e.g., say "Set timer for laser mining to 1-50 seconds" this command will change the time duration of laser's firing at the rock. another example is  Say "Set Toggle for cargo scoop to 0- 1", this command will enabel (1) or disable (0) "Stop (Mining " command is set) if the cargo scoop should be retracted or not after a duration of time set in the command when the "Timer for cargo scoop set to * seconds. 
 
 
 ## Usage
