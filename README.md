@@ -69,7 +69,7 @@ These commands let you check what firegroups or toggles are currently active. Th
 | Say Toggle for cargo scoop / power / mining / etc. | Confirms current toggle status for the specified system |
 | Say timer for laser mining / target / pause | Reads back the current timer values used in mining sequences |
 
-📌 **Cross-link**: These commands directly reflect the **Firegroups setup** you configured earlier see [Firegroups Table](#set-your-firegroups-as-follows). 
+These commands directly reflect the **Firegroups setup** you configured earlier see [Firegroups Table](#set-your-firegroups-as-follows). 
 
 ---
 
@@ -83,7 +83,7 @@ These commands allow you to directly set or change firegroups by voice command, 
 | Set firegroup for Sub-surface Displacement Missile to [A–H] | Assigns SSD missiles to the chosen firegroup |
 | Set firegroup for pulse wave analyser to [A–H] | Assigns PWA to the chosen firegroup |
 
-📌 **Cross-link**: Use these if you want to *quickly apply* or *reconfigure* the firegroups defined earlier in the [Firegroups Table](#set-your-firegroups-as-follows).  
+Use these if you want to *quickly apply* or *reconfigure* the firegroups defined earlier in the [Firegroups Table](#set-your-firegroups-as-follows).  
 
 
 
