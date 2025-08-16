@@ -153,9 +153,18 @@ Once installed and your firegroups are set:
 - Use voice commands or your chosen keybinds.
 - EliteVA will automatically read your in-game keybindings from Elite Dangerous (keyboard-only, not HOTAS).
   
-## Known Limitations
+## Known Limitations/issues
 - Works only with in game custom keyboard keybindings. HOTAS/joystick buttons are not supported for automated reads and therefore need to be set manually inside the profile.
 - Requires [EliteVA (API) by Somfic](https://docs.somfic.dev/projects/eliteva)
+
+- This profile works together with HCS Voicepack with some conflicting commands.
+If you use HCS voicepack as you main profile be sure to change the commands for "Start and Stop mining inside the  EliteMining profile.
+- There is none known issue in use together with EDcopilot.
+
+## Missing features
+- Add a switch for core/laser mining
+- Add commands and presets for Core minig.
+
 
 ## Disclaimer
 This Profile is Work-in-progress and is subject for changes. (still in beta) 
