@@ -69,7 +69,7 @@ These commands let you check what firegroups or toggles are currently active. Th
 | Say Toggle for cargo scoop / power / mining / etc. | Confirms current toggle status for the specified system |
 | Say timer for laser mining / target / pause | Reads back the current timer values used in mining sequences |
 
-📌 **Cross-link**: These commands directly reflect the **Firegroups setup** you configured earlier (see [Firegroups Table](##set--firegroups-fg)). [ #](https://github.com/Viper-Dude/EliteMining/edit/main/README.md#set--firegroups-fg)
+📌 **Cross-link**: These commands directly reflect the **Firegroups setup** you configured earlier see [Firegroups Table](#set-your-firegroups-as-follows). 
 
 ---
 
