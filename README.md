@@ -40,61 +40,8 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 
 **Note:** Firegroups for Collector and Prospector Limpet Controllers are **not** set automatically by the profile. You must set them manually as shown above.
 
-## Mining - Presets
 
-This section of the profile provides quick ship configuration presets for different mining situations. Instead of manually toggling modules every time, you can use voice commands or keys/hoystick to switch between optimized loadouts.
-
-### Available Presets
-**Hazardous Mining**  
-*Set mining configuration for 3 x haz*  
-- Setting firegroup for mining laser's to charlie'
-- Setting firegroup for discovery scanner to golf' 
-- Setting firegroup for pulse wave analyser to bravo
-- Setting firegroup for Sub-surface Displacement Missile to foxtrot
-- Setting firegroup for weapons to echo
-- Toggle for cargo scoop to 0
-- Toggle for laser mining extra to 0
-- Timer is set if Toggle for laser mining extra =1
-- Timer for laser mining extra set to 9 seconds
-- Timer for pause set to 4 seconds
-- Timer for cargo scoop set to 8 seconds
-- Toggle for target set to 1
-- Timer for target set to 10 seconds
-- Toggle for Pulsewave set to 0
-- Toggle power settings set to 0
-
-
-- **Non Hazardous Mining**   
-*Setting mining configuration for 3 x laser's non haz*
-- Setting firegroup for mining laser's to charlie 
-- Setting firegroup for discovery scanner to golf 
-- Setting firegroup for pulse wave analyser to bravo' 
-- Setting firegroup for Sub-surface Displacement Missile to foxtrot' 
-- Setting firegroup for weapons to echo' 
-- Toggle for cargo scoop to 1' 
-- Toggle for laser mining extra to 0' 
-- Timer for laser mining extra set to 9 seconds
-- Timer for pause set to 4 seconds 
-- Timer for cargo scoop set to 8 seconds 
-- Toggle for target set to 1
-- Timer for target set to 10 seconds' 
-- Toggle for pulse wave set to 1 
-- Toggle power settings set to 1
-
-###You can easily customize this section to match your own ship builds or preferences.###  
-- Add new presets for your own build ships with firegroups 
-- Change Firegroups for laser,scanner and weapons (e.g., Setting firegroup for mining laser's to delta).  
-
-
-###How to Use
-
-1. Say the command for the preset (for example: `Set mining configuration for 3 x haz ore 3 x haz` or `Set mining configuration for 3 x none haz multiminer or 3 x none haz multiminer`).  
-2. VoiceAttack will automatically toggle your ship’s modules to the appropriate configuration.  
-3. Switch back and forth at any time depending on the mining site.
-4. On fly changes e.g., say "Set timer for laser mining to 1-50 seconds" this command will change the time duration of laser's firing at the rock. another example is  Say "Set Toggle for cargo scoop to 0- 1", this command will enabel (1) or disable (0) if the cargo scoop should be retracted or not after a duration of time set in the command "Timer for cargo scoop set to * seconds.
-
-
-### Customization
+## Customization
 
 You can easily customize this section to match your own ship builds or preferences.  
 - Add new presets for specialized ships (e.g., deep core mining).  
@@ -115,7 +62,7 @@ You can easily customize this section to match your own ship builds or preferenc
 
 ## Commands
 
-The **EliteMining** profile contains **512 commands** in total, organized into categories. Below are two important categories directly related to firegroup and mining operations.
+The **EliteMining** profile contains **553 commands** in total, organized into categories. Below are two important categories directly related to firegroup and mining operations.
 
 ### Check – Status
 These commands let you check what firegroups or toggles are currently active. They are useful for troubleshooting or confirming that the correct setup is in place before starting a mining sequence.  
@@ -144,6 +91,59 @@ These commands allow you to directly set or change firegroups by voice command, 
 | Set firegroup for pulse wave analyser to [A–H] | Assigns PWA to the chosen firegroup |
 
 Use these if you want to *quickly apply* or *reconfigure* the firegroups defined earlier in the [Firegroups Table](#set-your-firegroups-as-follows).  
+
+## Mining - Presets
+
+This section of the profile provides quick ship configuration presets for different mining situations. Instead of manually toggling modules every time, you can use voice commands or keys/hoystick to switch between optimized loadouts.
+
+### Available Presets
+**Hazardous Mining**  
+*Set mining configuration for 3 x haz*  
+- Setting firegroup for mining laser's to charlie'
+- Setting firegroup for discovery scanner to golf' 
+- Setting firegroup for pulse wave analyser to bravo
+- Setting firegroup for Sub-surface Displacement Missile to foxtrot
+- Setting firegroup for weapons to echo
+- Toggle for cargo scoop to 0
+- Toggle for laser mining extra to 0
+- Timer is set if Toggle for laser mining extra =1
+- Timer for laser mining extra set to 9 seconds
+- Timer for pause set to 4 seconds
+- Timer for cargo scoop set to 8 seconds
+- Toggle for target set to 1
+- Timer for target set to 10 seconds
+- Toggle for Pulsewave set to 0
+- Toggle power settings set to 0
+
+
+- **Non Hazardous Mining**   
+ *Set mining configuration for 3 x haz*
+- Setting firegroup for mining laser's to charlie 
+- Setting firegroup for discovery scanner to golf 
+- Setting firegroup for pulse wave analyser to bravo' 
+- Setting firegroup for Sub-surface Displacement Missile to foxtrot' 
+- Setting firegroup for weapons to echo' 
+- Toggle for cargo scoop to 1' 
+- Toggle for laser mining extra to 0' 
+- Timer for laser mining extra set to 9 seconds
+- Timer for pause set to 4 seconds 
+- Timer for cargo scoop set to 8 seconds 
+- Toggle for target set to 1
+- Timer for target set to 10 seconds' 
+- Toggle for pulse wave set to 1 
+- Toggle power settings set to 1
+
+### You can easily customize this section to match your own ship builds or preferences. 
+- Add new presets for your own build ships with firegroups 
+- Change Firegroups for laser,scanner and weapons (e.g., Setting firegroup for mining laser's to delta).  
+
+
+### How to Use
+
+1. Say the command for the preset (for example: "Set mining configuration for 3 x haz or 3 x haz" or Set mining configuration for 3 x none haz multiminer or3 x none haz multiminer`).  
+2. VoiceAttack will automatically toggle your ship’s modules to the appropriate configuration.  
+3. Switch back and forth at any time depending on the mining site.
+4. On fly changes e.g., say "Set timer for laser mining to 1-50 seconds" this command will change the time duration of laser's firing at the rock. another example is  Say "Set Toggle for cargo scoop to 0- 1", this command will enabel (1) or disable (0) if the cargo scoop should be retracted or not after a duration of time set in the command "Timer for cargo scoop set to * seconds.
 
 
 ## Usage
