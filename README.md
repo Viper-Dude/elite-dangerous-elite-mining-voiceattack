@@ -40,15 +40,7 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 
 **Note:** Firegroups for Collector and Prospector Limpet Controllers are **not** set automatically by the profile. You must set them manually as shown above.
 
-
-## Customization
-
-You can easily customize this section to match your own ship builds or preferences.  
-- Add new presets for specialized ships (e.g., deep core mining).  
-- Change which modules are powered in each preset.  
-- Adjust the spoken command phrases to whatever feels most natural to you.
-
----
+--
 
 ### Recommended Key/HOTAS Buttons
 
