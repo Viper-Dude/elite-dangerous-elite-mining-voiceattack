@@ -53,13 +53,49 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 | Clear and Jump | Clears your ship from mass lock and activates Supercruise or an FSD jump (if a system is selected). This same button can also be used to enter a destination from supercruise |
 
 
+## Commands
+
+The **EliteMining** profile contains **509 commands** in total, organized into categories. Below are two important categories directly related to firegroup and mining operations.
+
+### Check – Status
+These commands let you check what firegroups or toggles are currently active. They are useful for troubleshooting or confirming that the correct setup is in place before starting a mining sequence.  
+
+| Spoken Command | Description |
+|----------------|-------------|
+| Say firegroup for weapons | Reports the firegroup assigned to weapons |
+| Say firegroup for mining lasers | Reports the firegroup assigned to mining lasers |
+| Say firegroup for Sub-surface Displacement Missile | Reports the firegroup assigned to Sub-surface Missiles |
+| Say firegroup for pulse wave analyser | Reports the firegroup assigned to the Pulse Wave Analyser |
+| Say Toggle for cargo scoop / power / mining / etc. | Confirms current toggle status for the specified system |
+| Say timer for laser mining / target / pause | Reads back the current timer values used in mining sequences |
+
+📌 **Cross-link**: These commands directly reflect the **Firegroups setup** you configured earlier (see [Firegroups Table](##set--firegroups-fg)). [ #](https://github.com/Viper-Dude/EliteMining/edit/main/README.md#set--firegroups-fg)
+
+---
+
+### Set – Firegroups (FG)
+These commands allow you to directly set or change firegroups by voice command, without opening your right-hand panel manually.  
+
+| Spoken Command | Description |
+|----------------|-------------|
+| Set firegroup for mining lasers to [A–H] | Assigns mining lasers to the chosen firegroup |
+| Set firegroup for weapons to [A–H] | Assigns weapons to the chosen firegroup |
+| Set firegroup for Sub-surface Displacement Missile to [A–H] | Assigns SSD missiles to the chosen firegroup |
+| Set firegroup for pulse wave analyser to [A–H] | Assigns PWA to the chosen firegroup |
+
+📌 **Cross-link**: Use these if you want to *quickly apply* or *reconfigure* the firegroups defined earlier in the [Firegroups Table](#set-your-firegroups-as-follows).  
+
+
+
+
+
 ## Usage
 Once installed and your firegroups are set:
 
 - **Laser Mining Sequence** – Runs the full laser-mining process for you: switches modes if needed, sets power to weapons, turns on mining lasers, fires Collector limpets, opens and closes the cargo scoop, times your laser firing (mining), and finishes by resetting your ship for the next mining run.
 - Use voice commands or your chosen keybinds.
 - EliteVA will automatically read your in-game keybindings from Elite Dangerous (keyboard-only, not HOTAS).
-
+  
 ## Known Limitations
 - Works only with in game custom keyboard keybindings. HOTAS/joystick buttons are not supported for automated reads and therefore need to be set manually inside the profile.
 - Requires EliteAPI to be running in the background.
