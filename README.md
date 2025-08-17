@@ -51,10 +51,12 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 | Reset Mining | Stops and resets the mining sequence if needed |
 | Deploy seismic charge launcher | Setting FG for Seismic Charge Launcer |
 | Start Scanning for Cores | Start Sequence for scanning cores (Setting FG,Continuous boost and pulsewave|
+| Stop Scanning for Cores | Stopping Scanning for core|
 | Clear and Jump | Clear your ship from mass lock and activates Supercruise or an FSD jump (if a system is selected). This same button can also be used to enter a destination from supercruise, Activate/disable Supercruise and FDS jump to another system |
 | Trackir integration | Set your pause toggle in the Trackir software to f9 and trackir will pause/unpause when your ship is docked/undocked. You can also change the keybind to you liking in the command "Toggle Trackir" |
 
-Start Scanning for Cores;Start Pulse wave scanning
+Tips: For a command that have both a start and stop (reset) function you can set the reset/stop key/button
+to the same function as your start key/button with enableing "Shortcute os invoked when long-pressed"  
 
 
 ## Commands
