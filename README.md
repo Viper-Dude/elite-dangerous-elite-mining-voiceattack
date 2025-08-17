@@ -29,14 +29,15 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 
 ### Set Your Firegroups as Follows
 
-| Component | Firegroup | Notes |
-|-----------|-----------|-------|
-| Discovery Scanner | Secondary fire button |  |
-| Mining Lasers | Primary fire button |  |
-| Collector Limpet Controller | Same as Mining Laser (and Sub-surface Displacement Missile if installed) | Must be set manually |
-| Pulse Wave Analyser | Primary fire button |  |
-| Sub-surface Displacement Missile | Primary fire button |  |
-| Prospector Limpet Controller | Secondary fire button | Must be set manually |
+| Component | Firegroup  | Primary or Secondary fire button | Notes | 
+|-----------|------------|----------------------------------|-------|
+| Discovery Scanner |Set by command or presets| Sec fire button | Sec |  |
+| Surface Scanner |Firegroup A| Pri |  |
+| Mining Lasers |Set by command or presets| Pri |  |
+| Collector Limpet Controller |Set by command or presets| Same as Mining Laser (and Sub-surface Displacement Missile if installed) | Must be set manually |
+| Pulse Wave Analyser |Set by command or presets| Pri | Primary fire button |  |
+| Sub-surface Displacement Missile |Set by command or presets| Pri | |
+| Prospector Limpet Controller |Set by command or presets| Sec | Must be set manually |
 
 **Note:** Firegroups for Collector and Prospector Limpet Controllers are **not** set automatically by the profile. You must set them manually as shown above.
 --
