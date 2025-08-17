@@ -31,16 +31,15 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 
 | Component | Firegroup  | Primary or Secondary fire button | Notes | 
 |-----------|------------|----------------------------------|-------|
-| Discovery Scanner |Set by command or presets| Sec fire button |  |  |
-| Surface Scanner |Firegroup A| Pri |  |
-| Mining Lasers |Set by command or presets| Pri |  |
+| Discovery Scanner |Set by command or presets| Secondary fire button |  |  |
+| Surface Scanner |Firegroup A| Primary fire buttons |  |
+| Mining Lasers |Set by command or presets| Primary fire buttons |  |
 | Collector Limpet Controller |Set by command or presets| Same as Mining Laser (and Sub-surface Displacement Missile if installed) | Must be set manually |
-| Pulse Wave Analyser |Set by command or presets| Pri | Primary fire button |  |
-| Sub-surface Displacement Missile |Set by command or presets| Pri | |
-| Prospector Limpet Controller |Same as Pulse wave Analayser (reccomended) | Sec | Must be set manually |
+| Pulse Wave Analyser |Set by command or presets| Primary fire button   |  |
+| Sub-surface Displacement Missile |Set by command or presets| Primary fire buttons | |
+| Prospector Limpet Controller |Same as Pulse wave Analyser (recommended) | Secondary fire button | Must be set manually |
 
 **Note:** Firegroups for Collector and Prospector Limpet Controllers are **not** set automatically by the profile. You must set them manually as shown above. 
---
 
 ### Recommended Key/HOTAS Buttons
 
@@ -49,14 +48,14 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 | Stop All VA Processes | Immediately stops all VoiceAttack commands currently running |
 | Start Mining | Starts the Laser Mining Sequence |
 | Reset Mining | Stops and resets the mining sequence if needed |
-| Deploy seismic charge launcher | Setting FG for Seismic Charge Launcer |
-| Start Scanning for Cores | Start Sequence for scanning cores (Setting FG,Continuous boost and pulsewave|
+| Deploy seismic charge launcher | Setting firegroups for Seismic Charge Launcer |
+| Start Scanning for Cores | Start Sequence for scanning cores (Setting firegroups,Continuous boost and pulsewave|
 | Stop Scanning for Cores | Stopping Scanning for core|
 | Clear and Jump | Clear your ship from mass lock and activates Supercruise or an FSD jump (if a system is selected). This same button can also be used to enter a destination from supercruise, Activate/disable Supercruise and FDS jump to another system |
 | Trackir integration | Set your pause toggle in the Trackir software to f9 and trackir will pause/unpause when your ship is docked/undocked. You can also change the keybind to you liking in the command "Toggle Trackir" |
 
 Tips: For a command that have both a start and stop (reset) function you can set the reset/stop key/button
-to the same function as your start key/button with enableing "Shortcute os invoked when long-pressed". (Short press = start command,Long Press = stop/reset the same command)
+to the same function as your start key/button with enableing "Shortcute is invoked when long-pressed". (Short press = start command,Long Press = stop/reset the same command)
 
 
 ## Commands
@@ -79,7 +78,7 @@ These commands directly reflect the **Firegroups setup** you configured earlier 
 
 ---
 
-### Set – Firegroups (FG)
+### Set – Firegroups (firegroups)
 These commands allow you to directly set or change firegroups by voice command, without opening your right-hand panel manually.  
 
 | Spoken Command | Description |
@@ -99,17 +98,17 @@ Use these if you want to *quickly apply* or *reconfigure* the firegroups defined
 
 ## Mining - Presets example
 
-This section of the profile provides quick ship configuration presets for different mining situations. Instead of manually toggling modules every time, you can use voice commands or keys/hoystick to switch between optimized loadouts.
+This section of the profile provides quick ship configuration presets for different mining situations. Instead of manually toggling modules every time, you can use voice commands or keys/joystick to switch between optimized loadouts.
 
 ### Ship Presets (example)
 
 **Hazardous Mining**  
 *Set mining configuration for 3 x haz*  
-- Setting firegroup for mining laser's to charlie  (setting FG )
-- Setting firegroup for discovery scanner to alpha (setting FG )
-- Setting firegroup for pulse wave analyser to bravo (setting FG )
-- Setting firegroup for Sub-surface Displacement Missile to foxtrot (setting FG )
-- Setting firegroup for weapons to echo (setting FG )
+- Setting firegroup for mining laser's to charlie  (setting firegroups )
+- Setting firegroup for discovery scanner to alpha (setting firegroups )
+- Setting firegroup for pulse wave analyser to bravo (setting firegroups )
+- Setting firegroup for Sub-surface Displacement Missile to foxtrot (setting firegroups )
+- Setting firegroup for weapons to echo (setting firegroups )
 - Setting timer for laser mining to 38 seconds (Duration for firing laser's)
 - Setting timer for laser mining extra to 9 seconds (Duration for firing laser's second time
 (after charging power to weapons) if toggle for laser mining extra is set to 1 )
@@ -121,7 +120,7 @@ This section of the profile provides quick ship configuration presets for differ
 - Setting toggle for mining to 1 (1= select prospector as target after firing a prospector)
 - Setting toggle for power settings to 1 ( 0 = Balancing power 1 = Max power to engines)
 - Setting toogle for target to 1 ( 1 = unselected prospector after firing laser's is completed)
-- Setting toggle for pulse wave analyser to 0 ( 1 = After firing laser is completed, setting FG to Pulswave analyser ) 
+- Setting toggle for pulse wave analyser to 0 ( 1 = After firing laser is completed, setting firegroups to Pulswave analyser ) 
 
 ### You can easily customize this section to match your own ship builds or preferences. 
 - Add new presets for your own build ships with firegroups 
@@ -148,7 +147,7 @@ Once installed and your firegroups are set:
 
 - This profile works together with HCS Voicepack with some conflicting commands.
 If you use HCS voicepack as you main profile be sure to change the commands for "Start and Stop mining inside the  EliteMining profile.
-- There is none known issue in use together with EDcopilot.
+- There is no known issues in use together with EDcopilot.
 
   ## Training Speech Recognition
 
@@ -170,7 +169,7 @@ By using the built-in utilities, you can adapt the profile to your own voice and
 
 ## Missing features
 - Add a switch for core/laser mining
-- Add commands and presets for Core minig.
+- Add commands and presets for Core mining.
 
 
 ## Disclaimer
