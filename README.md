@@ -37,9 +37,9 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 | Collector Limpet Controller |Set by command or presets| Same as Mining Laser (and Sub-surface Displacement Missile if installed) | Must be set manually |
 | Pulse Wave Analyser |Set by command or presets| Pri | Primary fire button |  |
 | Sub-surface Displacement Missile |Set by command or presets| Pri | |
-| Prospector Limpet Controller |Set by command or presets| Sec | Must be set manually |
+| Prospector Limpet Controller |Same as Pulse wave Analayser (reccomended) | Sec | Must be set manually |
 
-**Note:** Firegroups for Collector and Prospector Limpet Controllers are **not** set automatically by the profile. You must set them manually as shown above.
+**Note:** Firegroups for Collector and Prospector Limpet Controllers are **not** set automatically by the profile. You must set them manually as shown above. 
 --
 
 ### Recommended Key/HOTAS Buttons
