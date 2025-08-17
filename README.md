@@ -50,7 +50,8 @@ Info. Sometimes updates require you to update both the Elitemining.vap and the f
 | Stop All VA Processes | Immediately stops all VoiceAttack commands currently running |
 | Start Mining | Starts the Laser Mining Sequence |
 | Reset Mining | Stops and resets the mining sequence if needed |
-| Deploy seismic charge launcher | Setting FG for Seismic Charge Launcher |
+| Deploy seismic charge launcher | Change FG for Seismic Charge Launcher |
+| Deploy weapons | Change FG to weapons |
 | Start Scanning for Cores | Start Sequence for scanning cores (Setting FG,Continuous boost and pulsewave|
 | Stop Scanning for Cores | Stopping Scanning for core|
 | Clear and Jump | Clear your ship from mass lock and activates Supercruise or an FSD jump (if a system is selected). This same button can also be used to enter a destination from supercruise, Activate/disable Supercruise and FDS jump to another system |
