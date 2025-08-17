@@ -1,4 +1,4 @@
-# EliteMining - VoiceAttack Profile for Almost Hands-free Mining operations in Elite Dangerous
+2# EliteMining - VoiceAttack Profile for Almost Hands-free Mining operations in Elite Dangerous
 
 This repository contains EliteMining, a VoiceAttack profile designed to make mining operations in Elite Dangerous smoother, faster, and more immersive — with minimal manual input.
 
@@ -31,7 +31,7 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 
 | Component | Firegroup  | Primary or Secondary fire button | Notes | 
 |-----------|------------|----------------------------------|-------|
-| Discovery Scanner |Set by command or presets| Sec fire button | Sec |  |
+| Discovery Scanner |Set by command or presets| Sec fire button |  |  |
 | Surface Scanner |Firegroup A| Pri |  |
 | Mining Lasers |Set by command or presets| Pri |  |
 | Collector Limpet Controller |Set by command or presets| Same as Mining Laser (and Sub-surface Displacement Missile if installed) | Must be set manually |
