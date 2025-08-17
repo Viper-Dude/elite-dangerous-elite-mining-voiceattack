@@ -181,7 +181,7 @@ This profile is a fan-made tool and is not affiliated with Frontier Developments
 
 ## Credits
 
-- Somfic – Creator of EliteVA (API) used for automatic in-game data reading.
+- [Somfic](https://docs.somfic.dev/projects/eliteva) – Creator of EliteVA (API) used for automatic in-game data reading.
 
 CMDR ViperDude
 
