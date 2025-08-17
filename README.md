@@ -39,7 +39,6 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 | Prospector Limpet Controller | Secondary fire button | Must be set manually |
 
 **Note:** Firegroups for Collector and Prospector Limpet Controllers are **not** set automatically by the profile. You must set them manually as shown above.
-
 --
 
 ### Recommended Key/HOTAS Buttons
@@ -49,7 +48,7 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 | Stop All VA Processes | Immediately stops all VoiceAttack commands currently running |
 | Start Mining | Starts the Laser Mining Sequence |
 | Reset Mining | Stops and resets the mining sequence if needed |
-| Clear and Jump | Clears your ship from mass lock and activates Supercruise or an FSD jump (if a system is selected). This same button can also be used to enter a destination from supercruise |
+| Clear and Jump | Clear your ship from mass lock and activates Supercruise or an FSD jump (if a system is selected). This same button can also be used to enter a destination from supercruise, Activate/disable Supercruise and FDS jump to another system |
 | Trackir integration | Set your pause toggle in the Trackir software to f9 and trackir will pause/unpause when your ship is docked/undocked. You can also change the keybind to you liking in the command "Toggle Trackir" |
 
 
@@ -82,8 +81,9 @@ These commands allow you to directly set or change firegroups by voice command, 
 | Set firegroup for weapons to [A–H] | Assigns weapons to the chosen firegroup |
 | Set firegroup for Sub-surface Displacement Missile to [A–H] | Assigns SSD missiles to the chosen firegroup |
 | Set firegroup for pulse wave analyser to [A–H] | Assigns PWA to the chosen firegroup |
-
-Use these if you want to *quickly apply* or *reconfigure* the firegroups defined earlier in the [Firegroups Table](#set-your-firegroups-as-follows).  
+| Landing Request | Asking for docking and extract landing gear after 5 seconds.  |
+| Enable/Disable Autohonk |If enable, Start honk (discovery scan) after a jump |
+For setting FG Use these if you want to *quickly apply* or *reconfigure* the firegroups defined earlier in the [Firegroups Table](#set-your-firegroups-as-follows).  
 
 ## Mining - Presets example
 
@@ -111,11 +111,9 @@ This section of the profile provides quick ship configuration presets for differ
 - Setting toogle for target to 1 ( 1 = unselected prospector after firing laser's is completed)
 - Setting toggle for pulse wave analyser to 0 ( 1 = After firing laser is completed, setting FG to Pulswave analyser ) 
 
-
 ### You can easily customize this section to match your own ship builds or preferences. 
 - Add new presets for your own build ships with firegroups 
 - Change Firegroups for laser,scanner and weapons,set timers for firing laser's and much more with build in "called commands" for firegroups,toggles and timers.  
-
 
 ### How to Use
 
