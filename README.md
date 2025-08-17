@@ -25,6 +25,8 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 2. Replace the existing file in your `\VoiceAttack\App\EliteMining` folder.
 3. Update your Elite Dangerous keybindings and joystick/HOTAS buttons as needed.
 
+Info. Sometimes updates require you to update both the Elitemining.vap and the folder Variables
+
 ## Getting Started
 
 ### Set Your Firegroup (FG) as Follows
@@ -32,12 +34,12 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 | Component | FG  | Primary or Secondary fire button | Notes | 
 |-----------|------------|----------------------------------|-------|
 | Discovery Scanner |Set by command or presets| Secondary fire button |  |  |
-| Surface Scanner |A| Primary fire buttons |  |
-| Mining Lasers |Set by command or presets| Primary fire buttons |  |
+| Surface Scanner |A| Primary fire button |  |
+| Mining Lasers |Set by command or presets| Primary fire button |  |
 | Collector Limpet Controller |Set by command or presets| Same as Mining Lasers (and Sub-surface Displacement Missile if installed) | Must be set manually |
 | Pulse Wave Analyser |Set by command or presets| Primary fire button   |  |
-| Sub-surface Displacement Missile |Set by command or presets| Primary fire buttons | |
-| Prospector Limpet Controller |Same as Pulse wave Analyser (recommended) | Secondary fire button | Must be set manually |
+| Sub-surface Displacement Missile |Set by command or presets| Primary fire button | |
+| Prospector Limpet Controller |Same as Pulse Wave Analyser (recommended) | Secondary fire button | Must be set manually |
 
 **Note:** FG for Collector and Prospector Limpet Controllers are **not** set automatically by the profile. You must set them manually as shown above. 
 
@@ -52,7 +54,7 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 | Start Scanning for Cores | Start Sequence for scanning cores (Setting FG,Continuous boost and pulsewave|
 | Stop Scanning for Cores | Stopping Scanning for core|
 | Clear and Jump | Clear your ship from mass lock and activates Supercruise or an FSD jump (if a system is selected). This same button can also be used to enter a destination from supercruise, Activate/disable Supercruise and FDS jump to another system |
-| Trackir integration | Set your pause toggle in the Trackir software to f9 and trackir will pause/unpause when your ship is docked/undocked. You can also change the keybind to your liking in the command "Toggle Trackir" |
+| TrackIR integration | Set your pause toggle in the TrackIR software to f9 and TrackIR will pause/unpause when your ship is docked/undocked. You can also change the keybind to your liking in the command "Toggle TrackIR" |
 
 Tips: For a command that have both a start and stop (reset) function you can set the reset/stop key/button
 to the same function as your start key/button with enabling "Shortcut is invoked when long-pressed" when long-pressed". (Short press = start command,Long Press = stop/reset the same command)
@@ -70,7 +72,7 @@ These commands let you check what FG or toggles are currently active. They are u
 | Say firegroup for weapons | Reports the FG assigned to weapons |
 | Say firegroup for mining lasers | Reports the FG assigned to mining lasers |
 | Say firegroup for Sub-surface Displacement Missile | Reports the FG assigned to Sub-surface Missiles |
-| Say firegroup for pulse wave analyser | Reports the FG assigned to the Pulse Wave Analyser |
+| Say firegroup for Pulse Wave Analyser | Reports the FG assigned to the Pulse Wave Analyser |
 | Say Toggle for cargo scoop / power / mining / etc. | Confirms current toggle status for the specified system |
 | Say timer for laser mining / target / pause | Reads back the current timer values used in mining sequences |
 
@@ -86,7 +88,7 @@ These commands allow you to directly set or change FG by voice command, without 
 | Set firegroup for mining lasers to [A–H] | Assigns mining lasers to the chosen FG |
 | Set firegroup for weapons to [A–H] | Assigns weapons to the chosen FG |
 | Set firegroup for Sub-surface Displacement Missile to [A–H] | Assigns SSD missiles to the chosen FG |
-| Set firegroup for pulse wave analyser to [A–H] | Assigns PWA to the chosen FG |
+| Set firegroup for Pulse Wave Analyser to [A–H] | Assigns PWA to the chosen FG |
 
 Use these if you want to *quickly apply* or *reconfigure* the FG defined earlier in the [FG Table](#set-your-firegroup-fg-as-follows).
 
@@ -94,7 +96,7 @@ Use these if you want to *quickly apply* or *reconfigure* the FG defined earlier
 
 | Spoken Command | Description |
 |----------------|-------------|
-| Landing Request | Asking for docking and extract landing gear after 5 seconds.  |
+| Landing Request | Asking for docking and extend landing gear after 5 seconds.  |
 | Enable/Disable Autohonk (enabled by default) |If enable, Start honk (discovery scan) after a jump |
 
 ## Mining - Presets example
@@ -107,7 +109,7 @@ This section of the profile provides quick ship configuration presets for differ
 *Set mining configuration for 3 x haz*  
 - Setting firegroup for mining lasers to charlie  (setting FGs )
 - Setting firegroup for discovery scanner to alpha (setting FGs )
-- Setting firegroup for pulse wave analyser to bravo (setting FGs )
+- Setting firegroup for Pulse Wave Analyser to bravo (setting FGs )
 - Setting firegroup for Sub-surface Displacement Missile to foxtrot (setting FGs )
 - Setting firegroup for weapons to echo (setting FGs )
 - Setting timer for laser mining to 38 seconds (Duration for firing lasers)
@@ -121,7 +123,7 @@ This section of the profile provides quick ship configuration presets for differ
 - Setting toggle for mining to 1 (1= select prospector as target after firing a prospector)
 - Setting toggle for power settings to 1 ( 0 = Balancing power 1 = Max power to engines)
 - Setting toggle for target to 1 ( 1 = unselected prospector after firing lasers is completed)
-- Setting toggle for pulse wave analyser to 0 ( 1 = After firing laser is completed, setting FG to Pulswave analyser ) 
+- Setting toggle for Pulse Wave Analyser to 0 ( 1 = After firing laser is completed, setting FG to Pulswave analyser ) 
 
 ### You can easily customize this section to match your own ship builds or preferences. 
 - Add new presets for your own build ships with FG 
