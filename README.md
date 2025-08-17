@@ -1,4 +1,4 @@
-2# EliteMining - VoiceAttack Profile for Almost Hands-free Mining operations in Elite Dangerous
+# EliteMining - VoiceAttack Profile for Almost Hands-free Mining operations in Elite Dangerous
 
 This repository contains EliteMining, a VoiceAttack profile designed to make mining operations in Elite Dangerous smoother, faster, and more immersive — with minimal manual input.
 
