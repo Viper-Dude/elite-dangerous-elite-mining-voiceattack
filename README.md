@@ -108,23 +108,25 @@ This section of the profile provides quick ship configuration presets for differ
 
 **Hazardous Mining**  
 *Set mining configuration for 3 x haz*  
-- Setting firegroup for mining lasers to charlie  (setting FGs )
-- Setting firegroup for discovery scanner to alpha (setting FGs )
-- Setting firegroup for Pulse Wave Analyser to bravo (setting FGs )
-- Setting firegroup for Sub-surface Displacement Missile to foxtrot (setting FGs )
-- Setting firegroup for weapons to echo (setting FGs )
-- Setting timer for laser mining to 38 seconds (Duration for firing lasers)
-- Setting timer for laser mining extra to 9 seconds (Duration for firing lasers second time
-(after charging power to weapons) if toggle for laser mining extra is set to 1 )
-- Setting timer for pause to 4 seconds (Pauses for charging weapons after firing lasers is completed)
-- Setting timer for cargo scoop to 8 seconds (If toggle for cargo scoop to 1, time before retract cargo scoop after firing lasers is completed)
-- Setting timer for target to 8 seconds (If toggle for target is 1, time before target prospector is unselected after firing lasers is completed)
-- Setting toggle for cargo scoop to 1
-- Setting toggle for laser mining extra to 0 ( 1 = firing lasers for a second time after a pause)
-- Setting toggle for mining to 1 (1= select prospector as target after firing a prospector)
-- Setting toggle for power settings to 1 ( 0 = Balancing power 1 = Max power to engines)
-- Setting toggle for target to 1 ( 1 = unselected prospector after firing lasers is completed)
-- Setting toggle for Pulse Wave Analyser to 0 ( 1 = After firing laser is completed, setting FG to Pulswave analyser ) 
+- Setting firegroup for mining lasers to charlie' (and wait until it completes)
+- Setting firegroup for discovery scanner to alpha' (and wait until it completes)
+- Setting firegroup for pulse wave analyser to bravo' (and wait until it completes)
+- Setting firegroup for seismic charge launcher to delta' (and wait until it completes)
+- Setting firegroup for sub-surface displacement missile to foxtrot' (and wait until it completes)
+- Setting firegroup for weapons to echo' (and wait until it completes)
+- Timer is set if Toggle for laser mining extra =1
+- Setting timer for laser mining to 38 seconds' (and wait until it completes)
+- Setting timer for laser mining extra to 9 seconds' (and wait until it completes)
+- Setting timer for pause to 4 seconds' (and wait until it completes)
+- Setting timer for cargo scoop to 8 seconds' (and wait until it completes)
+- Delay before prospector is selected after fireing
+- Setting timer for target to 10 seconds' (and wait until it completes)
+- Setting toggle for cargo scoop to 1' (and wait until it completes)
+- Setting toggle for laser mining extra to 0' (and wait until it completes)
+- Setting toggle for prospector sequence to 1' (and wait until it completes)
+- Setting toggle for power settings to 1' (and wait until it completes)
+- Setting toogle for target to 1' (and wait until it completes)
+- Setting toggle for pulse wave analyser to 0' (and wait until it completes)
 
 ### You can easily customize this section to match your own ship builds or preferences. 
 - Add new presets for your own build ships with FG 
