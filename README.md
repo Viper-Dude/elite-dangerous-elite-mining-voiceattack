@@ -53,8 +53,8 @@ Info. Sometimes updates require you to update both the Elitemining.vap and the f
 | Deploy seismic charge launcher | Change FG for Seismic Charge Launcher |
 | Deploy weapons | Change FG to weapons |
 | Start Scanning for Cores | Start Sequence for scanning cores (Setting FG,Continuous boost and pulsewave|
-| Stop Scanning for Cores | Stopping Scanning for core|
-| Clear and Jump | Clear your ship from mass lock and activates Supercruise or an FSD jump (if a system is selected). This same button can also be used to enter a destination from supercruise, Activate/disable Supercruise and FDS jump to another system |
+| Stop Scanning for Cores | Stop sequence for scanning cores |
+| Clear and Jump | Clear your ship from mass lock and activates Supercruise or an FSD jump (if a system is selected). This same button can also be used to enter a destination from supercruise, Activate/disable Supercruise and FSD jump to another system |
 | TrackIR integration | Set your pause toggle in the TrackIR software to f9 and TrackIR will pause/unpause when your ship is docked/undocked. You can also change the keybind to your liking in the command "Toggle TrackIR" |
 
 Tips: For a command that have both a start and stop (reset) function you can set the reset/stop key/button
@@ -63,7 +63,7 @@ to the same function as your start key/button with enabling "Shortcut is invoked
 
 ## Commands
 
-The **EliteMining** profile contains **553 commands** in total, organized into categories. Below are two important categories directly related to firegroup and mining operations.
+The **EliteMining** profile contains more than 500 commands in total, organized into categories. Below are two important categories directly related to firegroup and mining operations.
 
 ### Check – Status
 These commands let you check what FG or toggles are currently active. They are useful for troubleshooting or confirming that the correct setup is in place before starting a mining sequence.  
