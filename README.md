@@ -85,50 +85,36 @@ These commands allow you to directly set or change firegroups by voice command, 
 
 Use these if you want to *quickly apply* or *reconfigure* the firegroups defined earlier in the [Firegroups Table](#set-your-firegroups-as-follows).  
 
-## Mining - Presets
+## Mining - Presets example
 
 This section of the profile provides quick ship configuration presets for different mining situations. Instead of manually toggling modules every time, you can use voice commands or keys/hoystick to switch between optimized loadouts.
 
 ### Available Presets
+
 **Hazardous Mining**  
 *Set mining configuration for 3 x haz*  
-- Setting firegroup for mining laser's to charlie'
-- Setting firegroup for discovery scanner to golf' 
-- Setting firegroup for pulse wave analyser to bravo
-- Setting firegroup for Sub-surface Displacement Missile to foxtrot
-- Setting firegroup for weapons to echo
-- Toggle for cargo scoop to 0
-- Toggle for laser mining extra to 0
-- Timer is set if Toggle for laser mining extra =1
-- Timer for laser mining extra set to 9 seconds
-- Timer for pause set to 4 seconds
-- Timer for cargo scoop set to 8 seconds
-- Toggle for target set to 1
-- Timer for target set to 10 seconds
-- Toggle for Pulsewave set to 0
-- Toggle power settings set to 0
+- Setting firegroup for mining laser's to charlie  (setting FG )
+- Setting firegroup for discovery scanner to alpha (setting FG )
+- Setting firegroup for pulse wave analyser to bravo (setting FG )
+- Setting firegroup for Sub-surface Displacement Missile to foxtrot (setting FG )
+- Setting firegroup for weapons to echo (setting FG )
+- Setting timer for laser mining to 38 seconds (Duration for firing laser's)
+- Setting timer for laser mining extra to 9 seconds (Duration for firing laser's second time
+(after charging power to weapons) if toggle for laser mining extra is set to 1 )
+- Setting timer for pause to 4 seconds (Pauses for charging weapons after firing laser's is completed)
+- Setting timer for cargo scoop to 8 seconds (If toggle for cargo scoop to 1, time before retract cargo scoop after firing laser's is completed)
+- Setting timer for target to 8 seconds (If toggle for target is 1, time before target prospector is unselected after firing laser's is completed)
+- Setting toggle for cargo scoop to 1
+- Setting toggle for laser mining extra to 0 ( 1 = firing lasers for a second time after a pause)
+- Setting toggle for mining to 1 (1= select prospector as target after firing a prospector)
+- Setting toggle for power settings to 1 ( 0 = Balancing power 1 = Max power to engines)
+- Setting toogle for target to 1 ( 1 = unselected prospector after firing laser's is completed)
+- Setting toggle for pulse wave analyser to 0 ( 1 = After firing laser is completed, setting FG to Pulswave analyser ) 
 
-
-**Non Hazardous Mining**   
-*Set mining configuration for 3 x haz*
-- Setting firegroup for mining laser's to charlie 
-- Setting firegroup for discovery scanner to golf 
-- Setting firegroup for pulse wave analyser to bravo' 
-- Setting firegroup for Sub-surface Displacement Missile to foxtrot' 
-- Setting firegroup for weapons to echo' 
-- Toggle for cargo scoop to 1' 
-- Toggle for laser mining extra to 0' 
-- Timer for laser mining extra set to 9 seconds
-- Timer for pause set to 4 seconds 
-- Timer for cargo scoop set to 8 seconds 
-- Toggle for target set to 1
-- Timer for target set to 10 seconds' 
-- Toggle for pulse wave set to 1 
-- Toggle power settings set to 1
 
 ### You can easily customize this section to match your own ship builds or preferences. 
 - Add new presets for your own build ships with firegroups 
-- Change Firegroups for laser,scanner and weapons (e.g., Setting firegroup for mining laser's to delta).  
+- Change Firegroups for laser,scanner and weapons,set timers for firing laser's and much more with build in Called commands firegroups,toggles and timers,  
 
 
 ### How to Use
