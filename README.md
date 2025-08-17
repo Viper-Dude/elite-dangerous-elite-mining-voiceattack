@@ -81,9 +81,11 @@ These commands allow you to directly set or change firegroups by voice command, 
 | Set firegroup for weapons to [A–H] | Assigns weapons to the chosen firegroup |
 | Set firegroup for Sub-surface Displacement Missile to [A–H] | Assigns SSD missiles to the chosen firegroup |
 | Set firegroup for pulse wave analyser to [A–H] | Assigns PWA to the chosen firegroup |
+Use these if you want to *quickly apply* or *reconfigure* the firegroups defined earlier in the [Firegroups Table](#set-your-firegroups-as-follows).  
+
+### Misc
 | Landing Request | Asking for docking and extract landing gear after 5 seconds.  |
-| Enable/Disable Autohonk |If enable, Start honk (discovery scan) after a jump |
-For setting FG Use these if you want to *quickly apply* or *reconfigure* the firegroups defined earlier in the [Firegroups Table](#set-your-firegroups-as-follows).  
+| Enable/Disable Autohonk (enablet by default) |If enable, Start honk (discovery scan) after a jump |
 
 ## Mining - Presets example
 
