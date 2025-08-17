@@ -170,7 +170,10 @@ By using the built-in utilities, you can adapt the profile to your own voice and
 This Profile is Work-in-progress and is subject for changes. (still in beta) 
 This profile is a fan-made tool and is not affiliated with Frontier Developments. Use at your own risk and in accordance with the game’s terms of service.
 
+## Credits
 
-ViperDude
+- Somfic – Creator of EliteVA (API) used for automatic in-game data reading.
+
+CMDR ViperDude
 
 
