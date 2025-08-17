@@ -56,7 +56,7 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 | Trackir integration | Set your pause toggle in the Trackir software to f9 and trackir will pause/unpause when your ship is docked/undocked. You can also change the keybind to you liking in the command "Toggle Trackir" |
 
 Tips: For a command that have both a start and stop (reset) function you can set the reset/stop key/button
-to the same function as your start key/button with enableing "Shortcute os invoked when long-pressed"  
+to the same function as your start key/button with enableing "Shortcute os invoked when long-pressed". (Short press = start command,Long Press = stop/reset the same command)
 
 
 ## Commands
