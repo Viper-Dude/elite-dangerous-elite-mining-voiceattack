@@ -89,7 +89,7 @@ Use these if you want to *quickly apply* or *reconfigure* the firegroups defined
 
 This section of the profile provides quick ship configuration presets for different mining situations. Instead of manually toggling modules every time, you can use voice commands or keys/hoystick to switch between optimized loadouts.
 
-### Available Presets
+### Ship Presets (example)
 
 **Hazardous Mining**  
 *Set mining configuration for 3 x haz*  
