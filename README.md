@@ -114,7 +114,7 @@ This section of the profile provides quick ship configuration presets for differ
 
 ### You can easily customize this section to match your own ship builds or preferences. 
 - Add new presets for your own build ships with firegroups 
-- Change Firegroups for laser,scanner and weapons,set timers for firing laser's and much more with build in Called commands firegroups,toggles and timers,  
+- Change Firegroups for laser,scanner and weapons,set timers for firing laser's and much more with build in "called commands" for firegroups,toggles and timers.  
 
 
 ### How to Use
