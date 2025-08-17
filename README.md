@@ -84,6 +84,9 @@ These commands allow you to directly set or change firegroups by voice command, 
 Use these if you want to *quickly apply* or *reconfigure* the firegroups defined earlier in the [Firegroups Table](#set-your-firegroups-as-follows).  
 
 ### Misc
+
+| Spoken Command | Description |
+|----------------|-------------|
 | Landing Request | Asking for docking and extract landing gear after 5 seconds.  |
 | Enable/Disable Autohonk (enablet by default) |If enable, Start honk (discovery scan) after a jump |
 
