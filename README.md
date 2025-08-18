@@ -61,7 +61,8 @@ Tips:
 For commands that have both a start and stop (reset) function, you can set the reset/stop key/button to the same function as your start key/button by enabling **"Shortcut is invoked when long-pressed"**.  
 - **Short press**: Start command.  
 - **Long press**: Stop/reset the same command.  
-- After you have set your primary or secondary fire buttons and FG as described, the best way to start is to choose one of the ship presets. Go out for a mining run where you can familiarize yourself with all commands and functions.
+
+After you have set your primary or secondary fire buttons and FG as described, the best way to start is to choose one of the ship presets. Go out for a mining run where you can familiarize yourself with all commands and functions.
 
 ## Commands
 
