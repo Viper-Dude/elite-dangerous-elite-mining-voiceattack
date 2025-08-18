@@ -33,7 +33,7 @@ Info. Sometimes  a new updates require you to update both the Elitemining.vap an
 
 | Component | FG  | Primary or Secondary fire button | Notes | 
 |-----------|------------|----------------------------------|-------|
-| Discovery Scanner |Set by command or presets| Secondary fire button |  |  |
+| Discovery Scanner |Set by command or presets| Secondary fire button |   |
 | Surface Scanner |A| Primary fire button |  |
 | Mining Lasers |Set by command or presets| Primary fire button |  |
 | Collector Limpet Controller |Set by command or presets| Same as Mining Lasers (and Sub-surface Displacement Missile if installed) | Must be set manually |
@@ -57,9 +57,11 @@ Info. Sometimes  a new updates require you to update both the Elitemining.vap an
 | Clear and Jump | Clear your ship from mass lock and activates Supercruise or an FSD jump (if a system is selected). This same button can also be used to enter a destination from supercruise, Activate/disable Supercruise and FSD jump to another system |
 | TrackIR integration | Set your pause toggle in the TrackIR software to f9 and TrackIR will pause/unpause when your ship is docked/undocked. You can also change the keybind to your liking in the command "Toggle TrackIR" |
 
-Tips: For a command that have both a start and stop (reset) function you can set the reset/stop key/button
-to the same function as your start key/button with enabling "Shortcut is invoked when long-pressed" when long-pressed". (Short press = start command,Long Press = stop/reset the same command)
-
+Tips: 
+For commands that have both a start and stop (reset) function, you can set the reset/stop key/button to the same function as your start key/button by enabling **"Shortcut is invoked when long-pressed"**.  
+- **Short press**: Start command.  
+- **Long press**: Stop/reset the same command.  
+- After you have set your primary or secondary fire buttons and FG as described, the best way to start is to choose one of the ship presets. Go out for a mining run where you can familiarize yourself with all commands and functions.
 
 ## Commands
 
