@@ -112,23 +112,23 @@ This section of the profile provides quick ship configuration presets for differ
 
 **Hazardous Mining**  
 *Set mining configuration for 3 x haz*  
-- Setting firegroup for mining lasers to charlie' (and wait until it completes)
-- Setting firegroup for discovery scanner to alpha' (and wait until it completes)
-- Setting firegroup for pulse wave analyser to bravo' (and wait until it completes)
-- Setting firegroup for seismic charge launcher to delta' (and wait until it completes)
-- Setting firegroup for sub-surface displacement missile to foxtrot' (and wait until it completes)
-- Setting firegroup for weapons to echo' (and wait until it completes)
-- Setting timer for laser mining to 38 seconds' (and wait until it completes)
-- Setting timer for laser mining extra to 9 seconds' (and wait until it completes)
-- Setting timer for pause to 4 seconds' (and wait until it completes)
-- Setting timer for cargo scoop to 8 seconds' (and wait until it completes)
-- Setting timer for target to 10 seconds' (and wait until it completes)
-- Setting toggle for cargo scoop to 1' (and wait until it completes)
-- Setting toggle for laser mining extra to 0' (and wait until it completes)
-- Setting toggle for prospector sequence to 1' (and wait until it completes)
-- Setting toggle for power settings to 1' (and wait until it completes)
-- Setting toogle for target to 1' (and wait until it completes)
-- Setting toggle for pulse wave analyser to 0' (and wait until it completes)
+- Setting firegroup for mining lasers to charlie
+- Setting firegroup for discovery scanner to alpha
+- Setting firegroup for pulse wave analyser to bravo
+- Setting firegroup for seismic charge launcher to delta
+- Setting firegroup for sub-surface displacement missile to foxtrot
+- Setting firegroup for weapons to echo
+- Setting timer for laser mining to 38 seconds
+- Setting timer for laser mining extra to 9 seconds
+- Setting timer for pause to 4 seconds
+- Setting timer for cargo scoop to 8 seconds
+- Setting timer for target to 10 seconds
+- Setting toggle for cargo scoop to 1
+- Setting toggle for laser mining extra to 0
+- Setting toggle for prospector sequence to 1
+- Setting toggle for power settings to 1
+- Setting toogle for target to 1
+- Setting toggle for pulse wave analyser to 0
 
 ### You can easily customize this section to match your own ship builds or preferences. 
 - Add new presets for your own build ships with FG 
