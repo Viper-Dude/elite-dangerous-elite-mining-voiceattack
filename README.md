@@ -25,7 +25,7 @@ This repository contains EliteMining, a VoiceAttack profile designed to make min
 2. Replace the existing file in your `\VoiceAttack\App\EliteMining` folder.
 3. Update your Elite Dangerous keybindings and joystick/HOTAS buttons as needed.
 
-Info. Sometimes updates require you to update both the Elitemining.vap and the folder Variables
+Info. Sometimes  a new updates require you to update both the Elitemining.vap and the folder Variables inside the EliteMining folder.
 
 ## Getting Started
 
@@ -81,15 +81,23 @@ These commands directly reflect the **FG setup** you configured earlier — see 
 
 ---
 
-### Set – FG 
-These commands allow you to directly set or change FG by voice command, without opening your right-hand panel manually.  
+## Voice commands for setting your custom mining parameter
+These commands allow you to directly set or change commands by voice.
 
 | Spoken Command | Description |
 |----------------|-------------|
+| Set firegroup for Discovery Scanner to [A–H] | Assigns Discovery Scanner to the chosen FG |
 | Set firegroup for mining lasers to [A–H] | Assigns mining lasers to the chosen FG |
+| Set firegroup for Pulse Wave Analyser to [A–H] | Assign Pulse Wave Analyser to to the chosen FG |
+| Set firegroup for Seismic Charge Launcer to [A–H] | Seismic Charge Launcer to the chossen FG |
+| Set firegroup for Sub-surface Displacement Missile to [A–H] | Assigns Sub-surface Displacement Missile missiles to the chosen FG |
 | Set firegroup for weapons to [A–H] | Assigns weapons to the chosen FG |
-| Set firegroup for Sub-surface Displacement Missile to [A–H] | Assigns SSD missiles to the chosen FG |
-| Set firegroup for Pulse Wave Analyser to [A–H] | Assigns PWA to the chosen FG |
+
+This procedure applies to the commands in the following categories:
+- Commands - Set Firegroups (FG)
+- Commands - Set Timers
+- Commands - Set Toggles
+- Commands - Check - Status (e.g "Say timer for laser mining")
 
 Use these if you want to *quickly apply* or *reconfigure* the FG defined earlier in the [FG Table](#set-your-firegroup-fg-as-follows).
 
@@ -130,7 +138,7 @@ This section of the profile provides quick ship configuration presets for differ
 
 ### You can easily customize this section to match your own ship builds or preferences. 
 - Add new presets for your own build ships with FG 
-- Change FG for laser,scanner and weapons,set timers for firing lasers and much more with build in "called commands" for FGs,toggles and timers.  
+- Change FG for laser,scanner and weapons,set timers for firing lasers and much more with build in "called commands" for FGs,toggles and timers or you can adjust on -the-fly 
 
 ### How to Use
 
