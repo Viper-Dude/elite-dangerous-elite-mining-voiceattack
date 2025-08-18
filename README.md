@@ -77,8 +77,6 @@ These commands let you check what FG or toggles are currently active. They are u
 | Say Toggle for cargo scoop / power / mining / etc. | Confirms current toggle status for the specified system |
 | Say timer for laser mining / target / pause | Reads back the current timer values used in mining sequences |
 
-These commands directly reflect the **FG setup** you configured earlier — see [FG Table](#set-your-firegroup-fg-as-follows).
-
 ---
 
 ## Voice commands for setting your custom mining parameter
@@ -93,13 +91,11 @@ These commands allow you to directly set or change commands by voice.
 | Set firegroup for Sub-surface Displacement Missile to [A–H] | Assigns Sub-surface Displacement Missile missiles to the chosen FG |
 | Set firegroup for weapons to [A–H] | Assigns weapons to the chosen FG |
 
-This procedure applies to the commands in the following categories:
+This is just some examples, you find all set and check commands in the following categories:
 - Commands - Set Firegroups (FG)
 - Commands - Set Timers
 - Commands - Set Toggles
 - Commands - Check - Status (e.g "Say timer for laser mining")
-
-Use these if you want to *quickly apply* or *reconfigure* the FG defined earlier in the [FG Table](#set-your-firegroup-fg-as-follows).
 
 ### Misc
 
