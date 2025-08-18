@@ -175,7 +175,7 @@ By using the built-in utilities, you can adapt the profile to your own voice and
 
 ## Missing features
 - Add a switch for core/laser mining
-- Add commands and presets for Core mining.
+- Add Primary/secondary firebutton switch
 
 
 ## Disclaimer
