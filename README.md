@@ -41,10 +41,10 @@
 ---
 
 ## 📦 Requirements
-- [EliteVA (API) by Somfic](https://docs.somfic.dev/projects/eliteva)  
-- [VoiceAttack](https://voiceattack.com/) – Paid version  
-- Working microphone for voice commands  
-- *Elite Dangerous* (PC version)  
+- **[EliteVA (API) by Somfic](https://docs.somfic.dev/projects/eliteva)  
+- **[VoiceAttack](https://voiceattack.com/) – Paid version  
+- **Working microphone for voice commands  
+- **Elite Dangerous* (PC version)  
 
 ---
 
@@ -166,6 +166,12 @@ Enable **"Shortcut is invoked when long-pressed"** in VoiceAttack.
 
 ---
 
+## 🚧 In Development
+- Switch for Core/Laser mining sequence  
+- Commands to toggle primary/secondary fire button  
+
+---
+
 ## ⚠️ Known Limitations
 - Only works with in-game keyboard keybindings (HOTAS setup required manually)  
 - Potential conflicts with HCS VoicePack (adjust commands if needed)  
@@ -183,11 +189,6 @@ Enable **"Shortcut is invoked when long-pressed"** in VoiceAttack.
 
 ---
 
-## 🚧 In Development
-- Switch for Core/Laser mining sequense  
-- Commands for setting and switching primary/secondary fire button 
-
----
 
 ## 📜 Disclaimer
 This profile is **work-in-progress (beta)** and **not affiliated with Frontier Developments**.  
@@ -203,3 +204,4 @@ Use at your own risk.
 
 
 CMDR ViperDude
+
