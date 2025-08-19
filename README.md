@@ -24,7 +24,7 @@
 - [Usage Tips](#-usage-tips)
 - [Known Limitations](#-known-limitations)
 - [Training Speech Recognition](#-training-speech-recognition)
-- [Missing Features](#-missing-features)
+- [In Development](#-in-development)
 - [Disclaimer](#-disclaimer)
 - [Credits](#-credits)
 
