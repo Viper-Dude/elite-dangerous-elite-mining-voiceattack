@@ -183,9 +183,9 @@ Enable **"Shortcut is invoked when long-pressed"** in VoiceAttack.
 
 ---
 
-## 🛠️ Missing Features
-- Core/Laser mining switch  
-- Primary/Secondary fire button switch  
+## 🚧 In Development
+- Switch for Core/Laser mining sequense  
+- Commands for setting and switching primary/secondary fire button 
 
 ---
 
