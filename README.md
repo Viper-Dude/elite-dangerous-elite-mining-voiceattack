@@ -168,8 +168,7 @@ Enable **"Shortcut is invoked when long-pressed"** in VoiceAttack.
 ---
 
 ## 🚧 In Development
-- Switch for Core/Laser mining sequence  
-- Commands to toggle primary/secondary fire button  
+- Switch to allow selecting primary/secondary fire button for firegroups 
 
 ---
 
@@ -198,7 +197,7 @@ If you have questions, want to share feedback, or need help with setup, check ou
 ---
 
 ## 📜 Disclaimer
-This profile is **work-in-progress (beta)** and **not affiliated with Frontier Developments**.  
+This profile is **work-in-progress and **not affiliated with Frontier Developments**.  
 Use at your own risk.
 
 ---
