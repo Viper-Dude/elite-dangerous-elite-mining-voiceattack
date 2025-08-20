@@ -166,9 +166,9 @@ Enable **"Shortcut is invoked when long-pressed"** in VoiceAttack.
 3. Begin mining and practice commands  
 
 ---
-
 ## 🚧 In Development
-- Switch to allow selecting primary/secondary fire button for firegroups 
+- Option to select and swap primary or secondary fire buttons  
+- Develop a GUI to configure ship presets, firegroups, fire buttons, and more
 
 ---
 
