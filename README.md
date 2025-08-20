@@ -25,6 +25,7 @@
 - [Known Limitations](#-known-limitations)
 - [Training Speech Recognition](#-training-speech-recognition)
 - [In Development](#-in-development)
+- [Questions / Support](#-questions--support)
 - [Disclaimer](#-disclaimer)
 - [Credits](#-credits)
 
@@ -41,10 +42,10 @@
 ---
 
 ## 📦 Requirements
-- **[EliteVA (API) by Somfic](https://docs.somfic.dev/projects/eliteva)  
-- **[VoiceAttack](https://voiceattack.com/) – Paid version  
-- **Working microphone for voice commands  
-- **Elite Dangerous* (PC version)  
+- **[EliteVA (API) by Somfic](https://docs.somfic.dev/projects/eliteva)**  
+- **[VoiceAttack](https://voiceattack.com/)** – Paid version  
+- **Working microphone** for voice commands  
+- **Elite Dangerous** (PC version)  
 
 ---
 
@@ -189,6 +190,12 @@ Enable **"Shortcut is invoked when long-pressed"** in VoiceAttack.
 
 ---
 
+## ❓ Questions / Support
+If you have questions, want to share feedback, or need help with setup, check out the discussion thread on the official Frontier forums:  
+
+👉 [EliteMining – VoiceAttack Profile for Almost Hands-Free Mining (Frontier Forums)](https://forums.frontier.co.uk/threads/elitemining-voiceattack-profile-for-almost-hands-free-mining-operations-in-elite-dangerous.640282/)
+
+---
 
 ## 📜 Disclaimer
 This profile is **work-in-progress (beta)** and **not affiliated with Frontier Developments**.  
@@ -200,8 +207,4 @@ Use at your own risk.
 - [Somfic](https://docs.somfic.dev/projects/eliteva) – Creator of EliteVA  
 
 
-
-
-
 CMDR ViperDude
-
